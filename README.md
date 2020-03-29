@@ -1,6 +1,8 @@
 # Be The Hero
 > Result of the "Semana OmniStack 11"
 
+![stack](https://user-images.githubusercontent.com/36782514/77838588-ba482e80-714b-11ea-9d8c-745ff7be6837.png)
+
 ## Installation
 
 ```sh
