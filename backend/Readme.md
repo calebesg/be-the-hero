@@ -3,9 +3,6 @@
 
 ## Installation
 ```sh
-git clone https://github.com/calebesg/be-the-hero.git
-```
-```sh
 cd backend/
 ```
 ```sh
