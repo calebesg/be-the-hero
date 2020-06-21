@@ -33,10 +33,10 @@
 
 ## 🏷️ About
 
-Presented by Rocketseat at OmniStack week, the ecoleta is a marketplace for waste collection.
+Presented by Rocketseat at OmniStack week, Be-The-Hero is a marketplace for good, presenting the existing cases in ONGs, where the hero can decide which one he can help.
 
 ## 💻 Technologies
-This app features all the latest tools and practices in mobile development!
+This app features all the latest tools and practices in mobile/web development!
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native(expo)** — A lib that provides a way to create native apps for Android and iOS
@@ -46,7 +46,7 @@ This app features all the latest tools and practices in mobile development!
 ## 🏃💨 Getting started
 
 1. Clone this repo with ``git clone https://github.com/calebesg/be-the-hero.git``
-2. Move yourself to the ecoleta directory: ``cd be-the-hero``
+2. Move yourself to the be-the-hero directory: ``cd be-the-hero``
 
 ### ☁️ Getting started server
 
